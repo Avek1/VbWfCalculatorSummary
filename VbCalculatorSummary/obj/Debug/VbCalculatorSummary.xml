@@ -1,0 +1,139 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VbCalculatorSummary
+</name>
+</assembly>
+<members>
+<member name="T:VbCalculatorSummary.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:VbCalculatorSummary.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:VbCalculatorSummary.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:VbCalculatorSummary.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:VbCalculatorSummary.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:VbCalculatorSummary.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="F:VbCalculatorSummary.Calculate._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VbCalculatorSummary.Calculate._TextBoxNum1">
+<summary>
+TextBoxNum1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VbCalculatorSummary.Calculate._TextBoxNum2">
+<summary>
+TextBoxNum2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VbCalculatorSummary.Calculate._ButtonCalculate">
+<summary>
+ButtonCalculate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VbCalculatorSummary.Calculate._TextBoxSum">
+<summary>
+TextBoxSum control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VbCalculatorSummary.Calculate._ButtonViewSummary">
+<summary>
+ButtonViewSummary control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VbCalculatorSummary.Summary._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VbCalculatorSummary.Summary._ListBoxOfSums">
+<summary>
+ListBoxOfSums control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VbCalculatorSummary.Summary._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VbCalculatorSummary.Summary._Button2">
+<summary>
+Button2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="P:VbCalculatorSummary.Summary.PreviousPage">
+<summary>
+PreviousPage property.
+</summary>
+<remarks>
+Auto-generated property.
+</remarks>
+</member>
+</members>
+</doc>
